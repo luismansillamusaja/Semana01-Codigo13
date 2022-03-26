@@ -23,3 +23,7 @@ GIT COMMIT -M "COMENTARIO"
 GIT PUSH ORIGIN MAIN
 ```
 -SIRVE PARA USBIR CAMBIKOS EN LA NUBE(GITHUB)
+```
+GIT pull origin main
+```
+-SIRVE PARA cargar de servidor al pc local la creacion de archivos o etc

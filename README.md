@@ -26,4 +26,19 @@ GIT PUSH ORIGIN MAIN
 ```
 GIT pull origin main
 ```
--SIRVE PARA cargar de servidor al pc local la creacion de archivos o etc
+- SIRVE PARA cargar de servidor al pc local la creacion de archivos o etc
+
+```
+GIT branch
+```
+- es para ver en que rama estas
+
+```
+GIT chekout -b nombre_de_branch
+```
+- crea rama con el nombre qu quiera specificar
+
+```
+GIT chekout  nombre_de_branch
+```
+--cambia ala rama que queiras

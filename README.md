@@ -42,3 +42,4 @@ GIT chekout -b nombre_de_branch
 GIT chekout  nombre_de_branch
 ```
 --cambia ala rama que queiras
+--comentario prrueba develop

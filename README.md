@@ -42,3 +42,9 @@ GIT chekout -b nombre_de_branch
 GIT chekout  nombre_de_branch
 ```
 --cambia ala rama que queiras
+
+
+My favorite dish is "chili pepper of chicken".
+Its containe potate , chicken and a  sauce special.
+The sauce prepared form special, this has , milk,chesse , bread, garlic and yellow chili pepper.
+ 

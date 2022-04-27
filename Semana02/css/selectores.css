@@ -1,0 +1,43 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family: Arial;
+}
+.contenedor p
+{
+    color: #f01;
+}
+.contenedor-dos h2
+{
+    color: #aba;
+}
+.contenedor-tres a img
+{
+    border: 2px solid rgb(red, green, blue);
+}
+.menu-navegacion
+{
+    margin: 20px;
+    
+}
+/*ul > li #yano se usa es antiguo esta forma
+{
+  
+  border: 2px solid green
+}*/
+.li-nav
+{
+    border: 2px solid green
+}
+/* el. [type="email"]  es el mismo tipo de la etiqueta input
+tambien este no lelva corchete por que no es una clase*/
+input[type="email"] 
+{
+    background-color: brown;
+    margin: 20px;
+}
+

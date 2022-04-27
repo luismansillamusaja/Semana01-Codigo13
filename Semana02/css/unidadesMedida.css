@@ -1,0 +1,29 @@
+ body
+ {
+     font-family: Arial;
+ }
+ .titulo
+ {
+     font-size: 3em;
+     color: aqua;
+ }
+ .parrafo
+ {
+     font-size: 20px;
+ }
+ .banner
+ {
+     background-color: blue;
+     height: 20vh; /*toma valores de 1 al 100 100 es la vision 
+     de una pantalla de forma natural , puedes aumentar mas normal */
+ }
+ .banner-2
+ {
+     background-color: green;
+     height: 30vh; /*toma valores de 1 al 100*/
+ }
+ .banner-medio
+ {
+     background-color: gold;
+     height: 50vh; /*toma valores de 1 al 100*/
+ }

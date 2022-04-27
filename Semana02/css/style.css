@@ -1,0 +1,74 @@
+h1
+{
+    color: red;
+
+}
+div
+{
+    background-color: aqua;
+}
+#mi_div
+{
+    background-color: blue;
+    padding: 30px;
+}
+.btnReg
+{   
+    color: black;    
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 8px;
+    border: none;
+}
+.btnEliminar
+{
+    font-size: 30px;
+}
+.form-input
+{
+    border-radius: 2;
+    border: solid;
+}
+.div2
+{
+    background-color: white;
+    padding-left: 50px;
+}
+.input-diseño
+{
+    padding: 20px;
+}
+p
+{
+
+}
+/*  pseudoclases */
+/*los elemento tienes propoiedasdes internas 
+como HOVER=detecta cunado mouse estra encima de elemento*/
+/* link, visited,hover,active*/
+/*todos los elementos html usan pseudocodigo*/
+
+.btn-ingresar:hover
+{
+    background-color: red;
+    text-decoration: none;
+    color: black;
+}
+
+.contenedor-interno-form h1
+{
+ border: solid blue;   
+}
+
+.contenedor-interno-form p:hover:first-child
+{
+    color: lime;
+    background-color: black;
+    padding: 5px;
+}
+.contenedor-interno-form input:hover:nth-child(1)
+{
+    color: lime;
+    background-color: rgb(203, 139, 43);
+    padding: 5px;
+}
